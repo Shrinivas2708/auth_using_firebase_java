@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205280012108",
+    "project_id": "learning-d3866",
+    "storage_bucket": "learning-d3866.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205280012108:android:882382feef0192e82cd1e9",
+        "android_client_info": {
+          "package_name": "com.example.auth_using_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzgA40Dw2njiy1gyY5LX5ELncMywGhS5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205280012108:android:93894a2e392363722cd1e9",
+        "android_client_info": {
+          "package_name": "com.example.firbase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzgA40Dw2njiy1gyY5LX5ELncMywGhS5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
